@@ -1,1 +1,14 @@
 theme: jekyll-theme-midnight
+title: The Art in Code
+logo: /assets/logo.png
+description: Snippets of famous, interesting, historically relevant or thought-provoking... code.
+url: https://theartincode.stanis.me
+author:
+  twitter: FilipStanis
+twitter:
+  username: TheArtInCode
+  card: summary
+social:
+  links:
+    - https://twitter.com/TheArtInCode
+    - https://www.instagram.com/theartincode/

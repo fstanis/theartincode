@@ -1,3 +1,7 @@
-# The Art In Code
+# The Art in Code
 
-Snippets (usually with some explanation) of famous, interesting, historically relevant or thought-provoking... code.
+Snippets of famous, interesting, historically relevant or thought-provoking... code.
+
+Follow us on Twitter
+
+-   [001 - Duff's device](001-duffs-device)
