@@ -1,6 +1,7 @@
 ---
 description: The feature that took 16 years to become part of Java.
 image: /002-switch-on-strings/img/code.png
+redirect_from: /2
 ---
 
 # 002 - switch on strings

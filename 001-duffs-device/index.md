@@ -1,6 +1,7 @@
 ---
 description: Duff's device is a famous snippet of C code that manually performs loop unrolling.
 image: /001-duffs-device/img/code.png
+redirect_from: /1
 ---
 
 # 001 - Duff's device

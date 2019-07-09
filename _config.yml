@@ -12,3 +12,5 @@ social:
   links:
     - https://twitter.com/TheArtInCode
     - https://www.instagram.com/theartincode/
+plugins:
+  - jekyll-redirect-from
