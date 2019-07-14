@@ -6,3 +6,4 @@ Follow us on Twitter
 
 -   [001 - Duff's device](001-duffs-device)
 -   [002 - switch on strings](002-switch-on-strings)
+-   [003 - Trigraph](003-trigraph)
