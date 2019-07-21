@@ -1,6 +1,7 @@
 ---
 description: The feature that took 16 years to become part of Java.
 image: /002-switch-on-strings/img/code.png
+preload: img/code.webp
 redirect_from: /2
 ---
 

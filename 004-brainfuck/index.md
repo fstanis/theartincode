@@ -1,6 +1,7 @@
 ---
 description: An esoteric programming language notable for its extreme minimalism.
 image: /004-brainfuck/img/code.png
+preload: img/code.webp
 redirect_from: /4
 ---
 

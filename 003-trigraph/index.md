@@ -1,6 +1,7 @@
 ---
 description: An lesser-known feature of the C preprocessor.
 image: /003-trigraph/img/code.png
+preload: img/code.webp
 redirect_from: /3
 ---
 
