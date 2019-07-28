@@ -8,3 +8,4 @@ Follow us on Twitter
 -   [002 - switch on strings](002-switch-on-strings)
 -   [003 - Trigraph](003-trigraph)
 -   [004 - Brainfuck](004-brainfuck)
+-   [005 - Fork bomb](005-fork-bomb)
