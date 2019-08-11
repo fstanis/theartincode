@@ -10,3 +10,4 @@ Follow us on Twitter
 -   [004 - Brainfuck](004-brainfuck)
 -   [005 - Fork bomb](005-fork-bomb)
 -   [006 - printf](006-printf)
+-   [007 - Heartbleed bug](007-heartbleed)
